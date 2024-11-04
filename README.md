@@ -9,6 +9,5 @@
   <li>Workshop</li>
   <li>Generics</li>
   <li>Iterators and Comparators</li>
-  <li>Exam Preparation</li>
   <li>Algorithms Introduction</li>
 </ol>
